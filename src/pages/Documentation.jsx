@@ -28,7 +28,7 @@ const Documentation = () => {
       <h2 className="text-xl font-semibold mt-6">Backend Setup</h2>
       <p>
         <a
-          href="https://github.com/ahmetselimkaraca/PanteonAdminPanel/"
+          href="https://github.com/ahmetselimkaraca/AdminPanel/"
           className="text-blue-500 hover:underline"
           target="_blank"
           rel="noopener noreferrer"
@@ -46,7 +46,7 @@ const Documentation = () => {
       <h2 className="text-xl font-semibold mt-6">Frontend Setup & Usage</h2>
       <p>
         <a
-          href="https://github.com/ahmetselimkaraca/panteon-demo-frontend"
+          href="https://github.com/ahmetselimkaraca/admin-panel-frontend"
           className="text-blue-500 hover:underline"
           target="_blank"
           rel="noopener noreferrer"

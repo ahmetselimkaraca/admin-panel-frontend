@@ -44,7 +44,7 @@ const AppNavbar = () => {
         {/* Navbar item containing the GitHub link */}
         <NavbarItem className="mt-[0.438rem]">
           <Link
-            href="https://github.com/ahmetselimkaraca/panteon-demo-frontend"
+            href="https://github.com/ahmetselimkaraca/admin-panel-frontend"
             className="text-foreground"
           >
             <GithubIcon />
