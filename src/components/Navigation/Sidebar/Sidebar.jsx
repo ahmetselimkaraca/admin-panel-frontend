@@ -13,8 +13,6 @@ import SkIcon from "../../icons/SkIcon";
 
 import SidebarItem from "./SidebarItem";
 
-import Logo from "../../../assets/sk-logo.svg";
-
 // Sidebar component for the admin panel
 const Sidebar = () => {
   return (

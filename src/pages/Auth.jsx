@@ -3,7 +3,6 @@ import { useNavigate, Link, useLocation } from "react-router-dom";
 import { login, register } from "../services/api";
 import { Input, Button, Card, CardHeader } from "@nextui-org/react";
 
-import Logo from "../assets/logo-outlined.svg";
 import SideImage from "../assets/image.png";
 
 import SkIcon from "../components/icons/SkIcon";
