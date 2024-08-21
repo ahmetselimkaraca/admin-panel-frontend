@@ -5,10 +5,10 @@ const Documentation = () => {
     <div className="p-4 w-full xl:w-3/4">
       <h1 className="text-2xl font-bold">Documentation</h1>
       <p>
-        For this project, I used .NET and React as per the requirements. The app
-        is running on AWS and can be accessed{" "}
+        For this project, I used .NET, React, MySQL and DynamoDB. The app is
+        running on Azure and can be accessed{" "}
         <a
-          href="http://ec2-18-195-118-235.eu-central-1.compute.amazonaws.com/"
+          href="http://selimkaraca.westeurope.cloudapp.azure.com/"
           className="text-blue-500 hover:underline"
           target="_blank"
           rel="noopener noreferrer"
@@ -20,9 +20,9 @@ const Documentation = () => {
 
       <h2 className="text-xl font-semibold mt-6">Cloud Setup</h2>
       <p>
-        I launched an EC2 t2.micro instance to run the frontend, backend, and
-        SQL database. I installed Nginx for the web server and MySQL for the
-        database. I also initialized tables on DynamoDB for the configurations.
+        I launched an Azure VM to run the frontend, backend, and SQL database. I
+        installed Nginx for the web server and MySQL for the database. I also
+        initialized tables on DynamoDB for the configurations.
       </p>
 
       <h2 className="text-xl font-semibold mt-6">Backend Setup</h2>
