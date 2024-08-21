@@ -95,7 +95,7 @@ function Auth() {
 
   return (
     <div
-      className="h-screen w-screen flex items-center justify-center bg-no-repeat bg-right"
+      className="h-screen w-screen flex items-center justify-center bg-no-repeat bg-center bg-cover"
       style={{ backgroundImage: "url(/waves.svg)" }}
     >
       <Card className="flex items-center justify-center p-0 w-full max-w-4xl h-auto md:h-2/3">
